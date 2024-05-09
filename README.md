@@ -73,10 +73,10 @@ plt.title("Customers Segments")
 <img src=image.png width=400 height=300>
 <img src=image-1.png width=300 height=300>
 <img src=image-2.png width=200 height=250>
-<img src=image-3.png width=400 height=300>
+<img src=image-3.png width=400 height=250>
 <img src=image-4.png width=200 height=100>
-<img src=image-5.png width=300 height=200>
-<img src=image-6.png width=400 height=300>
+<img src=image-5.png width=300 height=150>
+<img src=image-6.png width=400 height=250>
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
