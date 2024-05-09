@@ -1,3 +1,6 @@
+<h3>Date:</h3>
+<h2>Exp: 08</h2>
+
 # Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
@@ -14,7 +17,6 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 4. End the program
 
 ## Program:
-
 Program to implement the K Means Clustering for Customer Segmentation.
 
 Developed by: Sabari Akash A
@@ -68,13 +70,13 @@ plt.title("Customers Segments")
 ```
 
 ## Output:
-![output](image.png)
-![output](image-1.png)
-![output](image-2.png)
-![output](image-3.png)
-![output](image-4.png)
-![output](image-5.png)
-![output](image-6.png)
+<img src=image.png width=400 height=300>
+<img src=image-1.png width=300 height=300>
+<img src=image-2.png width=200 height=250>
+<img src=image-3.png width=400 height=300>
+<img src=image-4.png width=200 height=100>
+<img src=image-5.png width=300 height=200>
+<img src=image-6.png width=400 height=300>
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
